@@ -12,7 +12,7 @@ An engine may also overheat from sticking ignition advance and air leaks into th
 ### Thermistor 
 The temperature sensor is a 1/8" NPT threaded thermistor commonly marketed as a universal automotive temperature sensor for oil or water. In the Kawasaki kz650/z650 motorcycle, there is an oil galley at the rear of the sump (oil pan) and capped with a threaded plug. The earlier kz650/z650 models use a galley plug with an external hexagonal head, allowing a 1/8" Female NPT - 3/8" BSPT Male Thread Coupler Brass adapter to be used with the thermistor. Use PTFE tape with BSPT threads. 
 
-<img src=./docs/images/sensor_z650.png alt= “” width=60% height=60%>
+<img src=./docs/images/temperature_sensor.png alt= “” width=60% height=60%>
 
 Later kz650 models used a 1.25mm pitch 17mm metric threaded plug, identifiable by a recessed allen head, which will require a specialist fitting or tapping an existing plug for a thermistor.
 As the threads are insulated in PTFE tape, a 2-wire thermistor is required. The type used here is a widely available negative thermal coefficient or NTC thermistor specified for the range of temperatures encountered in vehicle applications, the exact model type is not critical as the temperature/resistance values are measured and tabulated to create a piecewise linear model that approximates the measured relationship.
